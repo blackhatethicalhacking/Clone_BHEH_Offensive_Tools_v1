@@ -13,6 +13,9 @@ listing them eventually in categories.
 written authorization from the client! Black Hat Ethical Hacking is not to be held responsible
 for any of your actions!*
 
+# Installation
+chmod +x clone_bheh_tools.sh && ./clone_bheh_tools.sh
+
 by Black Hat | Ethical Hacking.
 Security is a myth...
 
