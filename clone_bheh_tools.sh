@@ -35,6 +35,7 @@ read -n 1
 mkdir bheh
 cd bheh
 git clone https://github.com/gentilkiwi/mimikatz.git
+git clone https://github.com/securityisamyth/Phantom-Evasion
 git clone https://github.com/securityisamyth/pupy.git
 git clone https://github.com/securityisamyth/awesome-honeypots.git
 git clone https://github.com/securityisamyth/Azurite.git
