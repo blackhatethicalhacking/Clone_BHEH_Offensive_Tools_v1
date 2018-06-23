@@ -57,6 +57,7 @@ git clone https://github.com/securityisamyth/claimsman.git
 git clone https://github.com/securityisamyth/mydlp.git
 git clone https://github.com/NorthernSec/CVE-Scan.git
 git clone https://github.com/vulnersCom/nmap-vulners.git
+git clone https://github.com/trustedsec/ptf.git
 git clone https://github.com/SpiderLabs/Responder.git
 git clone https://github.com/entropy1337/infernal-twin.git
 git clone https://github.com/AhMyth/AhMyth-Android-RAT.git
@@ -127,6 +128,7 @@ git clone https://github.com/georgiaw/Smartphone-Pentest-Framework.git
 git clone https://github.com/websploit/websploit.git
 git clone https://github.com/offensive-security/exploit-database.git
 git clone https://github.com/gentilkiwi/mimikatz.git
+mv bheh /root
 
 
 echo ""
